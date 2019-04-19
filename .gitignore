@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+build/
+logo/
+*.spec
+*.ui
+ip_list.txt
